@@ -9,7 +9,7 @@
 */
 :root {
     /* 기본 테마: 카본 다크 (Carbon Dark) - 블랙 사이드바와 다크 스크롤 바디 */
-    --sidebar-bg: #090d16;
+    --sidebar-bg: #E1FAFCFF;
     --main-bg: #0e1322;
     --card-bg: #161c30;
     --text-color: #f1f5f9;
